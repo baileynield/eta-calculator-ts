@@ -1,4 +1,5 @@
 import "./App.css"
+import Calculator from "./Calculator";
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
         <p>Given distance to destination and speed, this app will return the time to destination</p>
       </header>
       <main>
-        <></>
+        <Calculator />
       </main>
     </>
   );
