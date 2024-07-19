@@ -16,3 +16,6 @@ This app takes in distance to a destination and speed in MPH to display the time
 4. Run npm run dev
     - npm run dev
 
+Run Project Using GitHub pages
+
+  - https://baileynield.github.io/eta-calculator-ts/
